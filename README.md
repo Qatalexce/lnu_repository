@@ -1,2 +1,2 @@
 # lnu_repository
-Repository
+Repository created for university test project
